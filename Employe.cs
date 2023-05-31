@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace day_3
+namespace day3
 {
     internal class Employee
     {
@@ -53,4 +53,5 @@ namespace day_3
             set => _department = value;
         }
     }
+
 }
